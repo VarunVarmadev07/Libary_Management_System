@@ -190,7 +190,6 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Your Name**
 T Varun Varma
 
 ---
